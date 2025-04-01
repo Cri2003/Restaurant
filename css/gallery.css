@@ -1,0 +1,222 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#row
+{
+    position: relative;
+    background: rgb(202, 92, 92);
+    top:20px;
+    left: 0px;
+    height: 150px;
+    width: 1200px;
+    margin: 0px auto;
+}
+#row h2
+{
+    position: absolute;
+    color: white;
+    top: 50px;
+    left: 60px;
+}
+#row1
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 250px;
+    margin: 150px auto;
+}
+
+#row1 div
+{
+    display: inline-block;
+    border: 2px solid #013f0b;
+    width: 270px;
+    height: 300px;
+    text-align: center;
+    margin-right: 15px;
+}
+#row1 div:nth-child(1)
+{
+    margin-left: 25px;
+}
+
+
+#row1 h2
+{
+    color: maroon;
+    font-size: 25px;
+    font-family: verdana;
+    margin: 10px 0px;
+}
+
+#row1 div p
+{
+    margin: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+#row2
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 250px;
+    margin: 150px auto;
+}
+
+#row2 div
+{
+    display: inline-block;
+    border: 2px solid #013f0b;
+    width: 270px;
+    height: 300px;
+    text-align: center;
+    margin-right: 15px;
+}
+#row2 div:nth-child(1)
+{
+    margin-left: 25px;
+}
+
+
+#row2 h2
+{
+    color: maroon;
+    font-size: 25px;
+    font-family: verdana;
+    margin: 10px 0px;
+}
+
+#row2 div p
+{
+    margin: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+#row3
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 250px;
+    margin: 150px auto;
+}
+
+#row3 div
+{
+    display: inline-block;
+    border: 2px solid #013f0b;
+    width: 270px;
+    height: 300px;
+    text-align: center;
+    margin-right: 15px;
+}
+#row3 div:nth-child(1)
+{
+    margin-left: 25px;
+}
+
+
+#row3 h2
+{
+    color: maroon;
+    font-size: 25px;
+    font-family: verdana;
+    margin: 10px 0px;
+}
+
+#row3 div p
+{
+    margin: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+#row4
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 250px;
+    margin: 150px auto;
+}
+
+#row4 div
+{
+    display: inline-block;
+    border: 2px solid #013f0b;
+    width: 270px;
+    height: 300px;
+    text-align: center;
+    margin-right: 15px;
+}
+#row4 div:nth-child(1)
+{
+    margin-left: 25px;
+}
+
+
+#row4 h2
+{
+    color: maroon;
+    font-size: 25px;
+    font-family: verdana;
+    margin: 10px 0px;
+}
+
+#row4 div p
+{
+    margin: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+#row5
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 250px;
+    margin: 150px auto;
+}
+
+#row5 div
+{
+    display: inline-block;
+    border: 2px solid #013f0b;
+    width: 270px;
+    height: 300px;
+    text-align: center;
+    margin-right: 15px;
+}
+#row5 div:nth-child(1)
+{
+    margin-left: 25px;
+}
+
+
+#row5 h2
+{
+    color: maroon;
+    font-size: 25px;
+    font-family: verdana;
+    margin: 10px 0px;
+}
+
+#row5 div p
+{
+    margin: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
+

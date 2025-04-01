@@ -1,0 +1,422 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#ourmenu
+{
+    position: relative;
+    background: rgb(202, 92, 92);
+    top:10px;
+    left: 0px;
+    height: 200px;
+    width: 1200px;
+    margin: 0px auto;
+}
+#ourmenu h2
+{
+    position: absolute;
+    color: white;
+    top: 60px;
+    left: 60px;
+    font-size: 30px;
+}
+#breakfast
+{
+   position: relative;
+    background: whitesmoke;
+    top:40px;
+    left: 0px;
+    height: 550px;
+    width: 1200px;
+    margin: 0px auto;
+    
+}
+#breakfast h2
+{ 
+    position: absolute;
+    left: 20px;
+    top:70px;
+    height: auto;
+    font-size: 40px;
+}
+#breakfast h3
+{
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    top: 130px;
+    height:auto;
+    font-size:25px;
+    font-style: italic;
+    opacity: 0.7;
+}
+#breakfast div p
+{
+    position: absolute;
+    top: 270px; 
+    left: 20px;
+    height:auto;
+    font-size: 19px;
+    font-style: italic;
+    text-align: justify;
+    margin-right: 40px;
+    opacity: 0.8;
+
+}
+#breakfast div button
+{ 
+    position: absolute;
+    border: 2px solid brown;
+    width: 90px;
+    height: 35px;
+    left: 20px;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 10px;
+    top: 480px;
+}
+#breakfast div button:hover
+{
+    background-color: #c63076;
+    color: white;
+}
+#breakfast img
+{ 
+    position: absolute;
+    left: 90px;
+    top:0px;
+    margin-left: 500px;
+    height: 550px;
+    font-size: 35px;
+}
+#maincourse
+{
+   position: relative;
+   background: whitesmoke;
+    top:80px;
+    left: 0px;
+    height: auto;
+    width: 1200px;
+    margin: 0px auto;
+    
+}
+#maincourse h2
+{ 
+    position: absolute;
+    left: 20px;
+    top:70px;
+    height: 200px;
+    font-size: 40px;
+}
+#maincourse h3
+{
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    top: 130px;
+    height:200px;
+    font-size:25px;
+    font-style: italic;
+    opacity: 0.7;
+}
+#maincourse div p
+{
+    position: absolute;
+    top: 270px; 
+    left: 20px;
+    height:auto;
+    font-size: 19px;
+    font-style: italic;
+    text-align: justify;
+    margin-right: 40px;
+    opacity: 0.8;
+
+}
+#maincourse div button
+{ 
+    position: absolute;
+    border: 2px solid brown;
+    width: 90px;
+    height: 35px;
+    left: 20px;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 10px;
+    top: 520px;
+   
+}
+#maincourse div button:hover
+{
+    background-color: #c63076;
+    color: white;
+}
+#maincourse img
+{ 
+    position: absolute;
+    left: 90px;
+    top:0px;
+    margin-left: 500px;
+    height: 600px;
+    font-size: 35px;
+}
+#moreinfo
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: auto;
+    width: 1200px;
+    margin: 0px auto;
+}
+#moreinfo div h1
+{  
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 55px;
+    font-weight: bold;
+    font-style: italic;
+    margin: 850px 150px;
+    color: white;
+}
+#moreinfo div h2
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 28px;
+    font-family: verdana;
+    margin: 950px 150px;
+    color: white;
+}
+#moreinfo div p
+{   
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    font-size: 20px;
+    font-family: courier;
+    margin: 1000px 150px;
+    color: white
+}
+#moreinfo div button
+{
+    position: absolute;
+    top: 450px;
+    left: 0px;
+    font-size: 17px;
+    margin: 700px 150px;
+    color: white;
+    border: 2px solid white;
+    background: transparent;
+}
+#moreinfo div button:hover
+{
+    background: greenyellow;
+    color: red;
+}
+#recipes
+{
+    position: relative;
+    background: whitesmoke;
+    top:60px;
+    left: 0px;
+    height: 600px;
+    width: 1200px;
+    margin: 0px auto;
+}
+#recipes h2
+{ 
+    position: absolute;
+    left: 20px;
+    top:70px;
+    height: 200px;
+    font-size: 40px;
+}
+#recipes h3
+{
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    top: 130px;
+    height:200px;
+    font-size:25px;
+    font-style: italic;
+    opacity: 0.7;
+}
+#recipes div p
+{
+    position: absolute;
+    top: 270px; 
+    left: 20px;
+    height:600px;
+    font-size: 19px;
+    font-style: italic;
+    text-align: justify;
+    margin-right: 40px;
+    opacity: 0.8;
+
+}
+#recipes div button
+{ 
+    position: absolute;
+    border: 2px solid brown;
+    width: 90px;
+    height: 35px;
+    left: 20px;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 10px;
+    top: 510px;
+}
+#recipes div button:hover
+{
+    background-color: #c63076;
+    color: white;
+}
+#recipes img
+{ 
+    position: absolute;
+    left: 90px;
+    top:0px;
+    margin-left: 500px;
+    height: 600px;
+    font-size: 35px;
+}
+#dessert
+{
+    position: relative;
+    background: whitesmoke;
+    top:120px;
+    left: 0px;
+    height: 650px;
+    width: 1200px;
+    margin: 0px auto;
+}
+#dessert h2
+{ 
+    position: absolute;
+    left: 20px;
+    top:70px;
+    height: 200px;
+    font-size: 40px;
+}
+#dessert h3
+{
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    top: 130px;
+    height:200px;
+    font-size:25px;
+    font-style: italic;
+    opacity: 0.7;
+}
+#dessert div p
+{
+    position: absolute;
+    top: 270px; 
+    left: 20px;
+    height:600px;
+    font-size: 19px;
+    font-style: italic;
+    text-align: justify;
+    margin-right: 40px;
+    opacity: 0.8;
+
+}
+#dessert div button
+{ 
+    position: absolute;
+    border: 2px solid brown;
+    width: 90px;
+    height: 35px;
+    left: 20px;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 10px;
+    top: 510px;
+}
+#dessert div button:hover
+{
+    background-color: #c63076;
+    color: white;
+}
+#dessert img
+{ 
+    position: absolute;
+    left: 90px;
+    top:0px;
+    margin-left: 500px;
+    height: 650px;
+    font-size: 35px;
+}
+#drinks
+{
+    position: relative;
+    background: whitesmoke;
+    top:170px;
+    left: 0px;
+    height: 650px;
+    width: 1200px;
+    margin: 0px auto;
+}
+#drinks h2
+{ 
+    position: absolute;
+    left: 20px;
+    top:70px;
+    height: 200px;
+    font-size: 40px;
+}
+#drinks h3
+{
+    position: absolute;
+    left: 20px;
+    width: 500px;
+    top: 130px;
+    height:200px;
+    font-size:25px;
+    font-style: italic;
+    opacity: 0.7;
+}
+#drinks div p
+{
+    position: absolute;
+    top: 270px; 
+    left: 20px;
+    height:600px;
+    font-size: 19px;
+    font-style: italic;
+    text-align: justify;
+    margin-right: 40px;
+    opacity: 0.8;
+
+}
+#drinks div button
+{ 
+    position: absolute;
+    border: 2px solid brown;
+    width: 90px;
+    height: 35px;
+    left: 20px;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 10px;
+    top: 510px;
+}
+#drinks div button:hover
+{
+    background-color: #c63076;
+    color: white;
+}
+#drinks img
+{ 
+    position: absolute;
+    left: 90px;
+    top:0px;
+    margin-left: 500px;
+    height: 650px;
+    font-size: 35px;
+}
